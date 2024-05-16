@@ -19,7 +19,7 @@ function Hero() {
           <Link href={"/courses"}>
             <Button
               borderRadius="1.75rem"
-              className="bg-white hover:border-black hover:text-black text-black transition duration-200 ease-in-out dark:bg-black  hover:font-semibold dark:text-white border-blue-400 dark:hover:bg-white dark:hover:text-black dark:border-slate-800 dark:hover:font-semibold"
+              className="bg-white text-black border-blue-400 hover:font-semibold hover:border-black dark:bg-slate-700 dark:text-white dark:hover:font-semibold transition duration-200 ease-in-out"
             >
               Explore Courses
             </Button>
@@ -27,7 +27,7 @@ function Hero() {
           <Link href={"/phd-guidance"}>
             <Button
               borderRadius="1.75rem"
-              className="bg-white hover:border-black hover:text-black text-black transition duration-200 ease-in-out dark:bg-black  hover:font-semibold dark:text-white border-blue-400 dark:hover:bg-white dark:hover:text-black dark:border-slate-800 dark:hover:font-semibold"
+              className="bg-white text-black border-blue-400 hover:font-semibold hover:border-black dark:bg-slate-700 dark:text-white dark:hover:font-semibold transition duration-200 ease-in-out"
             >
               Explore Guidance
             </Button>
