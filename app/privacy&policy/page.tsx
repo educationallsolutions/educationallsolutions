@@ -45,7 +45,7 @@ const TermsAndCondition = () => {
                 <h2 className='mt-8 font-semibold text-xl'>8. Changes to Privacy Policy</h2>
                 <p className='mt-3'>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.</p>
                 <h2 className='mt-8 font-semibold text-xl'>9. Contact Us</h2>
-                <p className='mt-3 mb-10'>If you have any questions or concerns about our Privacy Policy, please contact us at info@eduallsolutions.com</p>
+                <p className='mt-3 mb-10'>If you have any questions or concerns about our Privacy Policy, please contact us at info@eduallsolutions.com .</p>
                 </div>
         </div>
     )
